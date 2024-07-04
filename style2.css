@@ -1,0 +1,99 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+
+.item {
+    border: 2px solid #7619a1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #000000;
+    text-align: center;
+}
+.item1 {
+    border: 2px solid #7619a1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #000000;
+    text-align: center;
+}
+h2 {
+    color: #ffffff;
+}
+
+p {
+    color: #666; 
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #ffffff;
+    background-color: #7619a1; 
+    padding: 6px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+.tess{
+    color: #8a15c0;
+    text-align: center;
+}
+
+.Art {
+    color: white;
+    text-align: center;
+    width: 240px;
+}
+
+.section-container {
+    display: flex;
+    text-align: center;
+    border: 2px solid #7619a1;
+    padding: 10px; 
+    
+  }
+.Art1{
+    color: #ffffff;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #7619a1;
+    padding: 10px; 
+    width: 90%;
+
+}
+  
+.colot{
+    color: #7619a1;
+
+}
+ 
+.Art7{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #8a15c0;
+    padding: 10px; 
+    width: 100%;
+
+}
+  
+  
+  
+  
+  
+

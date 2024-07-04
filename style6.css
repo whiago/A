@@ -1,0 +1,142 @@
+body {
+    background-color: black; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+
+
+h2 {
+    color: #ff0000; 
+}
+
+p {
+    color: #ffffff; 
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #eeff00; 
+    background-color: red; 
+    padding: 6px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+.tess{
+    color: #a5939398;
+    text-align: center;
+}
+
+  
+.su{
+    color: white;
+    margin-left: 225px;
+}
+
+.section-container{
+display: flex;
+text-align: center;
+border: 3px solid #000000;
+padding: 10px; 
+width: 98%;
+margin-left: 10px;
+}
+
+.Art7{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid rgb(255, 0, 0);
+    padding: 10px; 
+    width: 100%;
+
+}
+.section-container1 {
+    display: block;
+    text-align: center;
+    border: 3px solid #000000;
+    padding: 10px; 
+    width: 50%;
+    margin-left: 450px;
+    
+}
+  
+.color2{
+
+    color: yellow;
+}
+
+.color3{
+    color: white;
+    text-align: center;
+     text-align: center;
+     border: 2px solid yellow;
+     padding: 10px; 
+     margin-left: 20px;
+     
+ 
+}
+
+.color4{
+    color: white;
+    text-align: center;
+     text-align: center;
+     border: 2px solid red;
+     padding: 10px; 
+     
+     
+ 
+}
+    
+.color5{
+    color: white;
+    text-align: center;
+     text-align: center;
+     border: 2px solid #5e5e5e;
+     padding: 10px; 
+     margin-left: 20px;
+     
+ 
+}
+.color6{
+    color: #666;
+}
+.color7{
+    color: red;
+}
+
+.color9{
+    color: #00aeff;
+    text-align: center;
+
+}
+.color10{
+    color: white;
+    text-align: center;
+     text-align: center;
+     border: 2px solid #00aeff;
+   width: 98%;
+}
+
+
+.Art1{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #8a15c0;
+    padding: 100px; 
+    width: 88%;
+
+}

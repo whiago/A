@@ -1,0 +1,148 @@
+body {
+    background-color: black; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+
+.item {
+    border: 2px solid #8a15c0;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #000000;
+    text-align: center;
+}
+.item1 {
+    border: 2px solid #8a15c0;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #000000;
+    text-align: center;
+}
+h2 {
+    color: #7619a1;
+}
+
+p {
+    color: #666; 
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #000000; 
+    background-color: #0cc4f1; 
+    padding: 6px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+.tess{
+    color: #15c02c;
+    text-align: center;
+}
+
+.Art {
+    color: white;
+    text-align: center;
+    width: 240px;
+}
+
+.section-container {
+    display: flex;
+    text-align: center;
+    border: 2px solid #000000;
+    padding: 15px; 
+    width: 97%;
+
+  }
+.Art1{
+    color: white;
+    text-align: center;
+    display: flex;
+     text-align: center;
+     border: 2px solid #0cc4f1;
+     padding: 10px; 
+     width: 91%;
+
+}
+  
+.Art2{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #0cc4f1;
+    padding: 10px;
+    width: 90%;
+}
+ 
+.tess1{
+    color: #0a79e0;
+    text-align: center;
+}
+.tess2{
+    color: #dce00a;
+    text-align: center;
+}
+.tess3{
+    color: #029930;
+    text-align: center;
+    
+    
+}
+  
+  
+.Art3{
+    color: white;
+   text-align: center;
+   
+    border: 2px solid #dce00a;
+    padding: 10px;
+    width: 90%;
+
+}
+.Art4 {
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #029930;
+    padding: 10px;
+    width: 90%;
+}
+.Art7{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #0cc4f1;
+    padding: 10px; 
+    width: 99%;
+
+}
+.tess4{
+    color: #029930;
+    text-align: center;
+    
+    
+}
+.section-container1 {
+    display: block;
+    text-align: center;
+    border: 3px solid #000000;
+    padding: 10px; 
+    padding: 100px; 
+    width: 88%;
+    
+}

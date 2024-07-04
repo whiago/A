@@ -1,0 +1,132 @@
+body {
+    background-color: black; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+
+h2 {
+    color: #be0a0a; 
+}
+
+p {
+    color: #666; 
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #ffffff; 
+    background-color: #0aa9be; 
+    padding: 6px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+.tess{
+    color: #b31111;
+   text-align: center;
+   
+    
+}
+
+.Art {
+    color: white;
+    text-align: center;
+    width: 240px;
+}
+
+.section-container {
+    display: flex;
+    text-align: center;
+    border: 3px solid #b80606;
+    padding: 10px; 
+    
+  }
+.Art1{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #b80606;
+    padding: 10px;
+    width: 90%;
+
+}
+
+
+
+.su{
+     color: white;
+     margin-left: 350px;
+}
+
+.tess1{
+    color: #0cc4f1;
+   text-align: center;
+}
+  
+.Art2{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #0cc4f1;
+    padding: 10px;
+    width: 90%;
+
+}
+  
+.section-container{
+ width: 98%;
+
+}
+  
+.Art3{
+    color: #0cc4f1;
+
+
+}
+
+.Art4{
+    color: #b80606;
+}
+
+.Art7{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #000000;
+    padding: 10px; 
+    width: 100%;
+
+}
+
+.Art8{
+    text-align: center;
+    color:  #0cc4f1;
+
+}
+.section-container1 {
+    display: block;
+    text-align: center;
+    border: 3px solid #000000;
+    padding: 100px; 
+    width: 88%;
+    
+    
+  }
+.Art9{
+    text-align: center;
+color: #0aa9be;
+
+}
